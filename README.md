@@ -50,3 +50,17 @@ python analysis/tag_failures.py
 - analysis/ WER, RTF, bootstrap, failure tagging
 - dashboard/ Power BI (coming)
 - agent/ PostHog instrumentation (coming)
+
+## Latency breakdown
+Fit per model: processing time = fixed cost per call + cost per second of audio (CPU, int8, 4 threads).
+- tiny.en: 0.27 s fixed + 0.043 s per audio second (r2 0.89)
+- small.en: 1.10 s fixed + 0.209 s per audio second (r2 0.92)
+- base.en fit is noisy (r2 0.57), likely CPU contention during that run, so not reported.
+
+Real-time factor by clip length (tiny / base / small):
+- under 3 s: 0.32 / 0.89 / 1.51 (37% of clips)
+- 3-6 s: 0.11 / 0.23 / 0.50
+- 6-10 s: 0.07 / 0.12 / 0.31
+- 20 s and longer: 0.04 / 0.08 / 0.18
+
+Takeaway: model size sets the slope, and per-call overhead dominates short utterances. On this laptop CPU, small.en is slower than real time on clips under 3 seconds, which is the typical size of a voice-agent turn. The likely cause is Whisper's fixed 30-second input window (not tested here).
