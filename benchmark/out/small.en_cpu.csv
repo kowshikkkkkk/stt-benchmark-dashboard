@@ -1,0 +1,297 @@
+clip_id,model,device,compute_type,hypothesis,audio_s,proc_s,rtf
+test_1222,small.en,cpu,int8,"And participants, C9P2.",2.83,2.207,0.78
+test_5522,small.en,cpu,int8,Have a good week.,0.76,2.091,2.7515
+test_998,small.en,cpu,int8,you know road rashes was like I would rather break something than get you know road rash.,5.23,2.365,0.4522
+validation_536,small.en,cpu,int8,It was just that it was so goddamn realistic that I didn't like it.,4.75,2.351,0.4949
+test_5492,small.en,cpu,int8,that's globally everywhere in the world people enjoy cake,3.85,2.298,0.5969
+test_3322,small.en,cpu,int8,"Okay, reading and writing or anything else you wish to add into it?",5.89,2.3,0.3906
+validation_800,small.en,cpu,int8,"Well, my.",1.87,2.126,1.1367
+test_5446,small.en,cpu,int8,The Diwali is like globally known.,3.4,2.255,0.6632
+validation_575,small.en,cpu,int8,I know a lot of people choose a business,2.53,2.288,0.9045
+test_1419,small.en,cpu,int8,"Oh God, yeah. But it's surprising like you're in Lisbon right now. I'm not feeling it so bad.",6.37,2.482,0.3896
+test_3316,small.en,cpu,int8,"So that is, that is quite funny. I'm quite talkative, uh, but I'll, uh, you know, um, give you the podium once again, and you were the forum to speak and I would simply ask you to, you know, give my throat a little break also in the meanwhile. So, uh, did you play a sport or have another hobby as a kid? Or let's say, do you still have it?",25.39,4.682,0.1844
+validation_489,small.en,cpu,int8,"Oh, so there's this like, her dress is always, for me, I don't know her dress, dress speaks way more than anything else that's happening there.",13.06,2.486,0.1904
+test_5518,small.en,cpu,int8,"sometime next weekend, you can drop in with the family and we'll have a nice meal together.",5.5,2.286,0.4156
+validation_523,small.en,cpu,int8,"whenever Katniss used to show up and she used to, you know, wear some, like some dress and something.",8.86,2.384,0.2691
+test_1046,small.en,cpu,int8,I don't think I have a least favorite thing about Edinburgh.,2.47,2.06,0.8342
+test_4848,small.en,cpu,int8,"And one of my favorite holiday destinations is London, so I'd like to visit",5.08,2.124,0.4181
+validation_539,small.en,cpu,int8,"Oh, go ahead.",1.75,1.92,1.0972
+test_1353,small.en,cpu,int8,"I know. And then when I got 72 somehow, so I'm just making it past that, you know, barely making it past that seven.",7.48,2.355,0.3148
+validation_638,small.en,cpu,int8,"Another one, the Maddie.",1.42,1.971,1.3878
+test_5250,small.en,cpu,int8,"More than that, we don't really know how it's prepared, you know?",3.64,2.1,0.5768
+validation_564,small.en,cpu,int8,"I can what? No. I, please.",3.34,2.058,0.6162
+validation_572,small.en,cpu,int8,"Anyway, what, how did it even end up at all? Oh yeah, because of the tapes. Let's move on to like.",5.89,2.375,0.4033
+test_3306,small.en,cpu,int8,"Okay, I have press the recording button and I'm going to start the conversation by introducing myself. Hello, this is FC26P1, saying hello to FC26P2, how are you doing P2?",21.08,2.704,0.1283
+test_1425,small.en,cpu,int8,"And they have like the Kalsada, I don't know, the cobblestone.",7.09,2.198,0.3101
+test_4978,small.en,cpu,int8,What part of the US would you like to travel or visit?,2.8,2.097,0.7488
+test_4850,small.en,cpu,int8,and I have family there as well.,3.25,1.983,0.6101
+validation_560,small.en,cpu,int8,"Absolutely none of them, no.",2.2,1.976,0.8982
+validation_561,small.en,cpu,int8,Edward or team Jacob,2.11,1.934,0.9168
+test_3326,small.en,cpu,int8,Thank you.,2.92,2.212,0.7576
+test_3320,small.en,cpu,int8,the grading and,1.27,1.926,1.5166
+test_4876,small.en,cpu,int8,"With my previous trips, what I really like is they have a lot of options to shop.",8.17,2.16,0.2644
+validation_554,small.en,cpu,int8,"Yeah, Peter is like the water to her fire, she doesn't need oil to be added to her flames.",8.08,2.244,0.2777
+test_984,small.en,cpu,int8,and then COVID did not help but also like even going to the supermarket there's a supermarket literally next to my house and I'm too lazy to go there.,6.67,2.446,0.3667
+test_3310,small.en,cpu,int8,"Bingo, you did a great job. Well done. FC2, 6P2, yeah, it seems a little strange calling ourselves with codes. But that is how it ought to be done or it is supposed to be done. So having said that, let us proceed with the next part of this conversation in which we are basically going to have a small conversation based on a couple of questions that are going to simply set a sketch for us so that we may know we both are on board and we are moving in the right direction. And let me ask you first of all, and then I'm going to share my own opinion with respect to that question. Bionel, you were a kid, what kinds of games did you use to play? Or is there one you remember well, like to talk about it?",45.91,9.326,0.2031
+test_1248,small.en,cpu,int8,"would bring for yeah, extend my trip.",1.99,2.045,1.0277
+validation_454,small.en,cpu,int8,And there's,0.7,1.91,2.729
+validation_635,small.en,cpu,int8,movies is that they put the whole blame on Sho Chang for like,7.63,2.122,0.2781
+test_5048,small.en,cpu,int8,It would be great if I catch up with you in a bit and we continue our conversation then.,6.01,2.45,0.4077
+validation_499,small.en,cpu,int8,Can you say anything against the capital out now?,3.07,2.108,0.6865
+test_5126,small.en,cpu,int8,"the state you're living in, you have to learn the language. And then English.",4.6,2.303,0.5007
+validation_597,small.en,cpu,int8,"Exactly, in the calm before the storm.",2.68,2.029,0.7572
+validation_725,small.en,cpu,int8,"No, I read, I started with Eragon and I read it in fifth when I was in fifth standard.",7.72,2.255,0.292
+test_1190,small.en,cpu,int8,"Yeah, it's kind of like that. So there are some of these language pairs where it just makes more sense to learn one language and then the other just is easy. It's cool.",12.73,2.665,0.2094
+validation_566,small.en,cpu,int8,Oh my God.,1.18,2.021,1.7127
+validation_798,small.en,cpu,int8,"Anyway, go ahead, finish with your thought.",2.38,2.066,0.8682
+test_1314,small.en,cpu,int8,"And so I go home and do the metro stop. So at 1 o'clock, there's no more metro lines.",6.22,2.32,0.3731
+test_1401,small.en,cpu,int8,That was a heat wave.,1.27,1.977,1.5568
+validation_789,small.en,cpu,int8,"You know the first place, it just felt fake as if someone is trying too hard to make you emotional about it.",5.17,2.285,0.4419
+test_3324,small.en,cpu,int8,"Well, that is nice. I guess if you talk about the hobbies, I tend to answer that question in such a way that that answer tends to answer this question too, because watching TV, I would say, alongside involving myself in different sports, is like the kind of hobby that I wanted to do or I've loved spending time in. Let's say playing cricket or football were two of my great hobbies in which I have spent some quality time that I always love to think about. And other than that, when I would return back from school after so many classes, so I would just simply put my bag in a room and I would just simply turn on the TV, tune into Cartoon Network and simply start watching those cartoons again and again. Though I would know what is going to happen next in the scene, I have watched those cartoons so many times, but still I would simply love every time the same episode would be repeated or let's say would be played again or broadcast or transmitted again from that channel. I would simply love to watch it. I would enjoy it in the same way as it's being played for the very first time. So I loved watching cartoons of all types. I remember there were so many very funny kind of cartoons too that were tuned or that were broadcast or transmitted from this Cartoon Network channel. Cow and Chicken was one of those cartoons. I still don't understand what's the point of that cartoon. It was so funny. I couldn't even get what those two characters were doing and they would simply love themselves as to their siblings. Then there was, I guess, another one, I Am Weasel. That was another cartoon. So there were so many. But gradually, with the past few times, I started to find some good series as well when I entered within my teens. So I was happy to, you know, find some great series cartoon series such as the Justice League. That was a very great series that I really enjoyed watching during my teenage. Then He-Man and the Master of Universe, that was another cartoon that I really loved watching. So these were the good ones that I do remember and I am very happy. Other than that, I guess when I was in my school, you know, in the beginning teenage. So I watched the Toonami series in which there were two cartoons. I guess one was Beyblade. Beyblade series, we forced G-Revolution. And then there were Digimon's and the Pokemon series. These were the few of the cartoons, I would say, like a hockey. I would watch these cartoons and I really enjoyed my time. Then the second part of the question is, do you still involve yourself in some hobby? So I would say, as I mentioned, being active, being physical is something that I like to do to keep myself fit, healthy and active. So I have been hiking during my childhood to simply lose weight because I have remained quite obese. I had this, you call it, childhood fact. So, you know, I have spent quite a lot of time in hiking. So to lose weight, other than that, I would say that I have played so many games. Now, if I talk about the time that I simply spend, so that is basically tennis. Tennis is the game that I really love to play. I have been watching tennis since 2007-8 when I started to see Federer and the way he simply plays with his racket as it feels like there is a wand in his hand. So he had so many nemesis like Nadal and Djokovic. So they gave him a very tough time. But then he managed to win 20 grand slams. I am not saying he is the greatest. He is like one of the greatest players of all times. There are two other, Nadal and Djokovic. So they are also doing great. Let's say Nadal has won his 22nd grand slam singles title recently by winning the Roland Garros title. So I would simply say, yeah, these three are the biggest players of all times making records, the unbeatable records, I would say. So I have the same kind of fire and I do enjoy playing tennis with my friends in the evening and sometimes before going to the university early in the morning. So that is one of the things that I love spending time in. And with that, I would say, I guess, three quarter notification also that our meeting will close within 10 minutes time. So because I don't have this upgraded version of Zoom, so I guess it is time to sum it all up. We did have a very great conversation and I guess it will be quite useful for research and analysis. So thank you very much FC26P2. It was a lovely time talking to you and it's goodbye from my side also. FC26P1 signing out and P2 signing out also. Thank you.",356.62,80.558,0.2259
+validation_607,small.en,cpu,int8,"Yeah, I don't know, like, J. Imborov sequence is my most hated one.",5.05,2.251,0.4457
+validation_616,small.en,cpu,int8,"Yeah, yeah, yeah.",1.12,2.61,2.3303
+validation_516,small.en,cpu,int8,"SCE, SCE 3D.",1.3,3.056,2.351
+test_5302,small.en,cpu,int8,because I see that he does and I do notice that he's a lot stronger.,5.41,2.886,0.5335
+test_1156,small.en,cpu,int8,How many languages do I?,1.27,2.557,2.0136
+test_3312,small.en,cpu,int8,"Okay, that is awesome. Very nice. And now if I tend to answer the same question, and looking back in time, the kind of games that I've played are quite simple. Snakes and letters, and Ludo. So these were the ones in which, you know, it's all based on luck. If the dice comes to six, yeah, I would say, woohoo, I can, you know, come out of the place and move around and recheck my destination. So that would give me all the happiness that I was looking for. So it was either snakes and letters or Ludo. And yeah, from cards, there was a game that I remember, that I learned from a couple of friends, it was, yeah, snap in which, you know, if two cards of the same shape appear, you know, placed by two different players. So the one that sees that, yeah, the two of them are of the same shape and simply put their hand very quickly on those cards and say, snap. So they are going to get it. And the one who gets, you know, the majority of the card simply wins the game. So that was a game that I remember. I did learn a few games, you know, this year, or the previous year, when we were going through the pandemic. So, but you know, I'm not able to remember them quite well. But the ones that I learned, or, you know, played in childhood. So those were the good ones, and they're the ones that I still remember. So they were kind of funny, too. So other than that, I would say, I was more into the physical kind of games, the outdoor games that we can call as the extra curricular activities in which I would simply go out and play cricket with neighborhood friends and playing football and badminton. So these were the kinds of games that I have played quite a lot. And yeah, there was a place in which some, you know, arcade games were also available, you know, they were at a walking distance from our residence. So sometimes like daily at the evening hours, and sometime during weekends. So me and my family would simply go out, they would simply have something to eat. And I would go there, you know, to play the arcade games. So, you know, game like Street Fighter, King of Fighter. So these were the kinds of games that I remember to be playing, and I kind of enjoyed them a lot. So and I would simply call them to be the ones which were like one of my favorite ones, because I used to play them regularly, and would simply enjoy each and every time in the same way as I'm playing them for the very first time. So that was like kind of fun. So I hope that we both have covered it up quite well, if we talk about the kinds of games and the ones that we remember. So if I ask you, the second question would be that, did you have any, or I would simply say, did you have a favorite book, or any film, or some TV show, or any cartoon as a child that you would love to watch or read? So what was it about?",199.48,47.973,0.2405
+validation_705,small.en,cpu,int8,fire,0.76,1.921,2.5272
+validation_7541,small.en,cpu,int8,"Oh, like an ivory tap, et cetera.",1.66,2.064,1.2436
+test_7235,small.en,cpu,int8,It won't be the other one I would have to do.,2.08,2.097,1.0083
+validation_7582,small.en,cpu,int8,"A bird, you see a bird?",1.45,2.027,1.3977
+test_7100,small.en,cpu,int8,"What was your favorite, if you had any?",1.99,2.038,1.0244
+validation_7587,small.en,cpu,int8,"And Punta Cana, it's like this place in the Dominican Republic. Have you heard about it? Punta Cana, I'm not sure. It's a Spanish restaurant.",10.39,2.672,0.2572
+test_7036,small.en,cpu,int8,"Yes, and it was just way better prepared and designed, designated for the students. So that was our reward to get the teachers launched. It was more in quantity and it was better taste and better presenting.",15.46,2.763,0.1787
+validation_7601,small.en,cpu,int8,"Really, it's like.",0.91,1.963,2.1568
+test_7027,small.en,cpu,int8,This always our house.,1.33,1.994,1.4994
+test_7260,small.en,cpu,int8,There's a lot of anime characters. I don't really like anime to become characters.,6.04,2.202,0.3645
+test_7035,small.en,cpu,int8,More for the definitely.,1.42,1.97,1.387
+test_7038,small.en,cpu,int8,I think we did that for probably about a year.,2.65,2.207,0.8328
+test_7071,small.en,cpu,int8,"Exactly, exactly. Based on what I read, I wouldn't say that. But you see, because a lot of those persons are from the, of course, they're Christians and so they're in a way, I'm not saying that their mind is clouded by the religion. Because in a way, they're very judgmental, they really come on to anything that inserts any thought of sexual things, even though it's not like they're there and it's explaining how she's having sex and all that. That's, I guess that was their view. But I didn't thought, I didn't get that from the book when I read it. So I was wondering if you got that from any at all.",39.46,8.528,0.2161
+test_7318,small.en,cpu,int8,"Yeah, yeah, I understand.",2.38,2.019,0.8482
+test_7469,small.en,cpu,int8,"well, and a family moved to the house, right?",7.72,2.084,0.27
+test_7092,small.en,cpu,int8,"And one of her children, as in Sylvia Platt's children, one of them committed suicide. I don't remember if it was the son or the doctor.",6.67,2.609,0.3912
+test_7163,small.en,cpu,int8,"When I do that, no, I give it a shot, you know?",3.61,2.212,0.6127
+validation_7709,small.en,cpu,int8,"I did you remember when we went to that Mexican restaurant? I think it was, what was the name? Chiliza? Chiliza?",9.04,2.428,0.2686
+test_7066,small.en,cpu,int8,"And so that has traumatized her further and her mother is also traumatized from the rate that she has received as well as the fact that she has to, she had to have undergone that cultural practice of.",19.72,4.744,0.2406
+test_7466,small.en,cpu,int8,"Um, what, what happened? Because I had really tried to start like the first episode. I really just invented all this stuff.",6.7,2.417,0.3608
+validation_7570,small.en,cpu,int8,"That's right, July 30th, so.",1.57,2.045,1.3025
+test_7456,small.en,cpu,int8,"Seven Deadly Sins, it's a Netflix also, like you can watch it, it's really amazing too.",6.19,2.264,0.3658
+validation_7576,small.en,cpu,int8,"Well, at least you're fast.",1.6,2.0,1.2501
+validation_7488,small.en,cpu,int8,"But you really wouldn't be enjoying the river much, no. I mean, even though it's summer. Yeah, it's summer, but it's rain.",6.91,2.485,0.3596
+test_7079,small.en,cpu,int8,"For me, I don't have, for me, I don't have, as you mentioned, I don't have a special book either. I mean, there are quite a few books that I like, and there are quite a few authors that I like. But I mostly like poetry instead of an actual book.",15.4,3.368,0.2187
+test_7433,small.en,cpu,int8,"Okay, we did a short after, I think.",3.67,2.046,0.5575
+test_7077,small.en,cpu,int8,"Yeah, yeah.",0.73,1.947,2.6673
+test_7126,small.en,cpu,int8,It's been a while since I've played call-off for you to do it.,4.51,2.178,0.4828
+validation_7719,small.en,cpu,int8,"I think it's called Chipotle. I'm not sure, because it's like Mexican and I can't pronounce it, but it's really good.",7.33,2.426,0.331
+test_7068,small.en,cpu,int8,"Yes. So in terms of the book being too sexual, I don't think it is because it's not like the book is there describing",7.87,2.536,0.3223
+test_7352,small.en,cpu,int8,"You basically just have an inner sense, that's just it, that's just it, again.",8.68,2.218,0.2555
+test_7199,small.en,cpu,int8,"15 point, yeah, yeah, 15 point something.",3.31,2.054,0.6204
+test_7394,small.en,cpu,int8,"I'm really, Academy is really interesting. I deem it best that you start, you know, fertility honest truth.",7.03,2.698,0.3837
+validation_7574,small.en,cpu,int8,"Yeah, and if I",1.72,1.954,1.1358
+test_7064,small.en,cpu,int8,and there's this cultural tradition where your aunt or the person who is mothering you would check to see if you are still a virgin.,10.15,2.376,0.2341
+validation_7572,small.en,cpu,int8,"I did fail, of course.",1.87,2.041,1.0913
+test_7129,small.en,cpu,int8,"But you can just sleep, man, when you're ready.",3.19,2.429,0.7613
+test_7098,small.en,cpu,int8,"barnyard animals, I think that's what it's called. I don't remember. But it's this cartoon that has talking animals and they live on a farm. Let's see what else. I mean, I used to watch Disney Channel and watch things that I kind of want on a, that's all I've been on. Many other, but I cannot remember their names. Austin and Ali. I cannot remember what their names are, no.",33.13,6.53,0.1971
+test_7370,small.en,cpu,int8,"Basically, you know, like the mind says them the arm on mine says",5.59,2.337,0.418
+test_7426,small.en,cpu,int8,"Yo, watch that note, bro.",1.21,2.042,1.6876
+test_7105,small.en,cpu,int8,Is there anything still going on?,1.42,2.03,1.4293
+test_7200,small.en,cpu,int8,I know that iOS 16 will be dropping late next month.,3.22,2.102,0.6527
+validation_7553,small.en,cpu,int8,I would be tired.,1.39,1.985,1.4281
+validation_7604,small.en,cpu,int8,I look forward to seeing you.,1.27,2.053,1.6162
+validation_7510,small.en,cpu,int8,"Yeah, they do have.",0.94,2.037,2.1675
+test_7051,small.en,cpu,int8,"Yeah, sorry, and if I told you about that experience, I don't remember now.",2.86,2.182,0.763
+test_7078,small.en,cpu,int8,cultural practice as well as the rape and the data is traumatized having been a product of rape and having been forced to experience the cultural tradition of checking to see if she's still averaging so that is why I'm I'm looking at cultural sorry generational trauma in terms of that book.,22.81,2.982,0.1307
+validation_7519,small.en,cpu,int8,Was it always popular? I don't know.,2.32,2.068,0.8916
+test_7391,small.en,cpu,int8,That wide one.,2.62,2.009,0.7669
+test_7109,small.en,cpu,int8,"Yeah, that is an error to stop it.",5.15,2.088,0.4054
+validation_7578,small.en,cpu,int8,"because the one I failed, I just failed by like 2%.",5.65,2.107,0.373
+validation_7479,small.en,cpu,int8,"Actually, I'm not very athletic nor fit. I do play tennis.",11.62,2.207,0.1899
+test_7405,small.en,cpu,int8,"Yeah, I'm gonna try to finish up what I'll see.",3.58,2.17,0.6061
+test_7049,small.en,cpu,int8,"Yeah, but what was, what was the experience like you having the opportunity to go and give the teachers the lunch? I mean, that was kind of fun and kind of cool. I guess what the teachers understand all the works, I guess, know what the teachers need, and so on. But was the experience for you? Was it fulfilling? Or sometimes did you have a bad experience with a teacher when I bring the lunch? I remember sometimes when I went to Mr. Mel, I couldn't stand going around there because it was him. And there was all the males with the masculine energy. And if I was Mr. Carl, we're female or something like that. And when he calls us female, kind of so in a way. And sometimes the boys would laugh. And so it was a bit intimidating for me. But generally, what was your experience? Because I never really get to ask you.",41.71,10.406,0.2495
+validation_7461,small.en,cpu,int8,My participant name is FC55P1.,6.53,2.056,0.3149
+validation_7474,small.en,cpu,int8,Both. I play on both. It's really cool though if you should try them all.,4.36,2.217,0.5084
+test_7091,small.en,cpu,int8,"Yeah, that was. All right.",1.15,4.722,4.1065
+test_7155,small.en,cpu,int8,"Well, at one point, yes, but the story drama for not so wonderful.",9.16,2.195,0.2397
+validation_7505,small.en,cpu,int8,"So it's like superstitious, no, it's like supernatural. This is how like, what kind of supernatural things it has like, is that they're vampires, werewolves, aliens.",12.58,2.674,0.2126
+test_7026,small.en,cpu,int8,"Um, I, I cannot remember playing any games at high school. What's there? Any games that we would have played might have been on our phones. Like, um, I don't, what's that one where you jump over the trains.",18.4,2.902,0.1577
+test_7395,small.en,cpu,int8,"So seasonal, almost seasonal today.",3.01,2.016,0.6698
+validation_8676,small.en,cpu,int8,"No, he sells his paintings, yeah.",3.88,2.034,0.5242
+validation_2707,small.en,cpu,int8,"Yeah, it hasn't been a problem, but I can imagine if we're having a conversation, it could become one. It's just me keeping them on task and the task is for them to read words.",14.05,2.754,0.196
+validation_4015,small.en,cpu,int8,I was watching the annoying orange video on my mom's phone but it wouldn't load so I was like really frustrated and that's a distinct memory I have.,10.78,2.483,0.2304
+validation_5703,small.en,cpu,int8,What is a role-play game then?,1.57,2.045,1.3023
+validation_3994,small.en,cpu,int8,Have a good one. Have a good one. Have a good one.,0.58,2.192,3.7787
+validation_127,small.en,cpu,int8,"Because I think it's such a cult thing. It's like Disney movies, people would just rewatch them whenever. But in the play industry...",5.89,2.474,0.4201
+test_524,small.en,cpu,int8,"Yeah, I do.",1.03,1.986,1.9283
+test_8849,small.en,cpu,int8,It's like for free for people.,1.69,2.045,1.2102
+test_337,small.en,cpu,int8,"Well, but like, he doesn't really look like the typical alien you would imagine, because he's fluffy, he's like a weird pet, and like, he really likes to eat. So when left alone, like, he eats everything he sees.",20.35,4.859,0.2388
+test_8853,small.en,cpu,int8,"Yep, it's ending.",1.36,1.986,1.4606
+validation_335,small.en,cpu,int8,"Other than that, I'm just in my dorm right now, and I'm gonna head out in a while, maybe like half an hour later.",9.67,2.468,0.2552
+test_3307,small.en,cpu,int8,"Hi, I'm fb-262 and I'm fine",5.68,2.104,0.3705
+validation_4002,small.en,cpu,int8,"Yeah, yeah, I know, I know. Because I remember being in like the sixth grade and maybe not, it was maybe not in the sixth grade, but like in elementary school, and I was watching TV, and they were talking about smartphones for the first time, and like how smartphones will be released in Korea the next year or something. And I was actually kind of skeptical, like I thought like, oh, you know, it's not gonna like take on, I guess. But then",26.8,6.883,0.2568
+test_2829,small.en,cpu,int8,"that he want the person, the big brother, he want to put this illegal activities. And after that, his partner knows about that. So they don't want him to leave that illegal activities. They want him to do as, whatever they are doing, they have to do that. And then they also say that.",25.33,3.45,0.1362
+validation_2239,small.en,cpu,int8,There's one like out like between Sheffield and Birmingham.,3.79,2.09,0.5514
+test_453,small.en,cpu,int8,"Okay, so usually I don't have breakfast, like during my normal day, I try to skip breakfast even though it's important, but I don't have breakfast usually. So for lunch, since here I can't really find my home food, I prefer to eat like rice with potatoes and chicken. So I can say that's my go-to lunch, eat food, that's what I eat for my lunch. And then dinner, dinner, it varies. Maybe I can have my spaghetti or macaron, just various things. And I prefer cooking even though I can go to the canton, like my school's canton, it's really, really nice, but sometimes I prefer cooking by myself. What about you?",51.82,8.607,0.1661
+validation_2151,small.en,cpu,int8,We're friends.,1.72,1.985,1.1543
+test_2897,small.en,cpu,int8,"You know, I like that one as well. So we went there with my, we went there together and that time I was very young. I love to travel and I love to, you know, I love to go different places and see. So as I told you. So in that time.",16.75,3.334,0.1991
+test_2886,small.en,cpu,int8,and just spend the whole time with the family so we can enjoy this summer.,8.08,2.192,0.2713
+validation_1491,small.en,cpu,int8,Africa tree and like it will be nice. It will be nice to be back.,3.79,2.198,0.5799
+test_623,small.en,cpu,int8,"I know that one thing, I mean the Scottish accent is difficult, but the Wales accent, I don't know what the adjective, the Welsh accent or something like this is super complicated. It sometimes feels like Indian.",18.1,2.786,0.1539
+validation_2491,small.en,cpu,int8,primary school.,1.3,1.962,1.5091
+test_6219,small.en,cpu,int8,"No, no, no.",0.55,1.99,3.6182
+test_9063,small.en,cpu,int8,"Um, but, um, but yeah, it's about, I guess they're in high school or, or something, I guess they're still students or something, and then they all, yeah. Well, what is this plot of happy days? It's just, they, they kind of, you know, get together. They're just this group of high school kids or, or college maybe, or yeah. And then, yeah, I, yeah. What is it about anywhere?",29.62,4.492,0.1516
+test_9119,small.en,cpu,int8,"Ah, yeah, if you have, I know, yeah, so...",2.77,2.164,0.7811
+test_2991,small.en,cpu,int8,I have a lot of movies but you know in my way of thinking I like the science fiction movies like last time I was watching The Last Ship the movie name is The Last Ship that was kind of,18.4,2.71,0.1473
+test_6149,small.en,cpu,int8,"No, even before that, like there wasn't even a name for Prince of Persia, like there wasn't even a serious name. It was the 2D version of it.",9.91,2.546,0.2569
+test_445,small.en,cpu,int8,It's a bit cloudy like yesterday it was raining so it's a bit confusing actually it's supposed to be summer or spring if I can say but it's just like it's changing sometimes it's raining sometimes it's very very sunny so it's just like intermediate. What about your sight?,21.4,3.157,0.1475
+validation_67,small.en,cpu,int8,They were in the get.,0.67,2.44,3.6416
+validation_8601,small.en,cpu,int8,But how do they promote this event?,3.64,2.048,0.5626
+validation_2493,small.en,cpu,int8,"at the sports hall as well, maybe for like two months probably and then I remember",8.44,2.241,0.2655
+validation_347,small.en,cpu,int8,I was just hoping to get a little more insight into what was going on.,4.66,2.213,0.4749
+validation_2539,small.en,cpu,int8,It was too intensive and I didn't want to do it again.,3.55,2.181,0.6144
+test_629,small.en,cpu,int8,"And I don't know if a lot of the rings, they talk different. Maybe they do, I don't know. But it was, I noticed it, at least when I read it, when I was 15 or something like this, it was quite challenging, was different. I don't know why we were talking about this.",17.62,3.433,0.1948
+validation_1620,small.en,cpu,int8,"Yeah, yeah, for sure. I mean, I definitely enjoy something if it's mostly me like falling over and going to pollution, getting back up again, so.",7.63,2.554,0.3347
+validation_3988,small.en,cpu,int8,"Okay, what should I say? Okay, I'll just go with movie.",4.3,2.227,0.5178
+test_3323,small.en,cpu,int8,"Anything else? Another hobby. I used to have a lot of hobbies, but those were my childhood hobbies. For instance, I used to love collecting stickers. I used to enjoy making bracelets. I used to enjoy doing embroidery. I used to love sketching, still do, and I still would love to sketch if I get time. And coloring. I love to color things. These are these are something that I used to do in my childhood and probably if I get time, it's different.",38.86,6.521,0.1678
+test_3011,small.en,cpu,int8,"And in this event, the scenario is going on and they will show everywhere there for security. Military is working on that situation. Police and military, they are working everywhere. Then after that, only there is a, because as I should have told you, the name of that drama is the last ship. There's a few ships, they're showing the Americans a few ships are, you know, over there. And also when they come to, you know, near the, when they come to near the, you know, standing area, near the, you know, lane, and the whole ship are infected. Only one ship was left and that was very old ship and only that ship is left. And, you know, in that ship, there is a commander in that, that is the second person who is leading the whole drama. Now, what happened?",65.11,12.54,0.1926
+validation_137,small.en,cpu,int8,That's it.,0.28,14.461,51.6477
+validation_6005,small.en,cpu,int8,"I don't care, no, it's okay.",1.3,2.044,1.5719
+validation_287,small.en,cpu,int8,because I've never tried that.,1.75,2.026,1.1575
+test_3311,small.en,cpu,int8,"Um, when I was a kid, I used to play a lot of board games and because I was an asthmatic patient and since my childhood, I could not really participate into much physical activities. So board games were a safe space for me. I used to play them a lot with my cousins and with my brothers. And I remember playing Scrabble Monopoly. And I also remember playing Hangry Man where you used to guess words. And I also remember playing a lot of computer games, like, um, different word games, painting, coloring. So these are the games that I can remember so far.",53.02,7.418,0.1399
+test_9143,small.en,cpu,int8,Yeah.,2.38,1.955,0.8216
+validation_1361,small.en,cpu,int8,"Yeah, yeah.",1.42,1.971,1.3878
+test_457,small.en,cpu,int8,"I'm doing Aeronautical Engineering. I'm graduating this coming year, like in June, like next month. So yeah, I'm almost done with my status and I'm just preparing to pursue Master's degree in Material Science and Engineering.",20.29,2.819,0.139
+test_685,small.en,cpu,int8,in a mo-,0.49,1.952,3.9828
+test_2862,small.en,cpu,int8,"Hello, I'm fine, how are you?",3.1,2.084,0.6724
+test_6195,small.en,cpu,int8,I think it's a very good trait that you learned in game.,3.52,2.16,0.6136
+validation_2257,small.en,cpu,int8,"And I was like, when I was growing up, there was only the go-kart thing. There was no corrosion.",5.14,2.355,0.4582
+validation_2147,small.en,cpu,int8,And we talk about holidays. Do you have any holidays planned?,6.43,2.105,0.3274
+validation_5779,small.en,cpu,int8,"Oh, no.",0.49,5.063,10.3325
+validation_8666,small.en,cpu,int8,And the main thing is erotic scenes.,6.7,2.016,0.3009
+test_2858,small.en,cpu,int8,"So I think we are done. So thanks, Rob, that's totally.",7.12,2.187,0.3072
+test_3325,small.en,cpu,int8,Thank you.,1.18,1.992,1.6884
+validation_143,small.en,cpu,int8,of it.,0.31,12.101,39.0359
+test_3034,small.en,cpu,int8,Did you like any food from child and did you like them for now or not?,8.32,2.142,0.2574
+test_607,small.en,cpu,int8,"All right, I love moving, yeah.",1.93,2.014,1.0436
+validation_5917,small.en,cpu,int8,"Cause I just, I did it so much, that's probably how I learned English as well.",5.5,2.226,0.4047
+test_383,small.en,cpu,int8,It's a summer dish.,1.36,1.969,1.4474
+test_8683,small.en,cpu,int8,"Um, so I was thinking about, uh, recently, like the Pokemon games, and because of, um, another game I'm playing, they were talking about Pokemon, and then I was thinking about how, like, um, you, I like gave you like my Pokemon games to play and stuff. And I know you played some of those as a kid, right?",22.24,3.566,0.1603
+test_6415,small.en,cpu,int8,"I can't teach you, but you have to be.",1.96,2.074,1.058
+test_2607,small.en,cpu,int8,"Yeah, I will be expecting that. I will be expecting that. Trust me.",5.08,2.167,0.4266
+test_6787,small.en,cpu,int8,"but they don't know that they can actually make money off of it. So I think a lot of persons, or like I say, a lot of freelancing websites or platforms need to, like I say, advertise better, you understand, in exposing those different types of skills that people have and they can market, you understand, actually get paid for it. Yeah, I think that way unemployment rate is not reduced.",35.26,6.136,0.174
+test_6753,small.en,cpu,int8,"Yeah, no, I'm not saying it's wrong. I'm actually on the money making side too.",6.52,2.265,0.3474
+test_1646,small.en,cpu,int8,"We kind of had fun, really. I think the first time was when we met with a friend. Yeah, yeah.",13.84,4.347,0.3141
+test_6693,small.en,cpu,int8,Yeah.,0.52,9.291,17.868
+test_6307,small.en,cpu,int8,"I've seen a lot of the rings. Yes, I enjoyed it. I love the movie. It was interesting, but like I said, it can't outscore my Game of Thrones. And I see some recent movie trending everywhere. What is it called? Blood Sisters. I've not seen the movie, but the movie is just being hyped. Everyone is talking about it, but I've not seen it. Have you seen it?",23.56,3.925,0.1666
+test_6764,small.en,cpu,int8,People are leaving their 9 to 5 these days because I think everyone likes to walk from home.,5.14,2.209,0.4299
+test_2625,small.en,cpu,int8,"Yeah, yeah, yeah, yeah, yeah.",1.66,2.047,1.2331
+test_6722,small.en,cpu,int8,"Yeah, like, it's also pretty cool, like...",1.45,2.068,1.4265
+test_6643,small.en,cpu,int8,"Yeah, I think it's recorded now. Is it for the two parties?",6.59,2.194,0.3329
+test_6702,small.en,cpu,int8,"I like to study in the UK though, even if I'm more physically like...",5.35,2.312,0.4321
+test_6335,small.en,cpu,int8,"I prefer we do, I prefer we do.",1.96,2.187,1.116
+test_2467,small.en,cpu,int8,"Well, speaking about vacation, I'm not really so, so much into vacation, they say.",6.13,2.245,0.3663
+test_6752,small.en,cpu,int8,"Yes, because I do.",1.39,1.99,1.4317
+test_2165,small.en,cpu,int8,I don't-,0.34,1.963,5.7735
+test_2511,small.en,cpu,int8,In the Eiffel Tower.,1.36,2.01,1.4776
+test_2104,small.en,cpu,int8,"So I wasn't so good with football, so I had to like, okay, since I'm good with science, since I'm good with, you know, nifty stuff, I like creating things, I like innovating. Let me just go there.",12.16,2.893,0.2379
+test_6441,small.en,cpu,int8,"I love black too, like I would go for something darker if I could see any, like I love black and I love pink too, you know those girly colors, I love pink and turquoise, I love turquoise.",16.48,2.797,0.1697
+test_1643,small.en,cpu,int8,"Okay, so, you know, it's been a while, like, been a while we met. Do you remember the last time we met? Did you remember?",9.64,2.526,0.2621
+test_6728,small.en,cpu,int8,"I mean, I would have still gone with my egg, but maybe I would have like taken like a bunch of skills outside the classroom, like maybe like content writing and the entry is kind of big right now.",11.95,2.751,0.2302
+test_2452,small.en,cpu,int8,"Oh, once in a while, yeah, I watch movies. Yeah, once in a while, you know, yeah, their movies are quite interesting. Yeah, they're quite interesting. They always have this good storyline, you know, captivating one.",13.45,2.779,0.2066
+test_6776,small.en,cpu,int8,commenting.,1.0,1.941,1.941
+test_6699,small.en,cpu,int8,with the medication.,1.0,1.951,1.9505
+test_1584,small.en,cpu,int8,"and you have to do a lot. I just, I began discovering these things when I, you know, got into the middle. At a particular point in time, I can honestly tell you that I got really tired. Sometimes I...",12.25,2.945,0.2404
+test_6780,small.en,cpu,int8,"Yeah, you did.",0.79,2.071,2.622
+test_2202,small.en,cpu,int8,"Yeah. So can you just tell me about your books, the books you read when you were in your childhood, and now that you're an adult, do you still read books? Do you still like reading books? Which books are your favorite books now, and then when you're a kid, can you tell me about that?",15.64,3.245,0.2075
+test_2530,small.en,cpu,int8,"I just wait to just walk in the middle of the water with my bikini, have fun at the beach. I have those fantasies in my head, like, I just want to do.",10.72,2.604,0.2429
+test_2322,small.en,cpu,int8,So I just try to forge my own path.,2.23,2.065,0.9258
+test_6713,small.en,cpu,int8,"Yeah, because a lot of people don't know that's copywriting, content writing, graphic design, if it is an actual career that somebody can go into, you understand?",11.32,2.564,0.2265
+test_1942,small.en,cpu,int8,What do you expect me to do?,1.33,2.027,1.5238
+test_1912,small.en,cpu,int8,"because our dad must never, must never catch us playing football. He has actually caught us countless times and, you know, we have longed for that because we actually disobeyed him. So there was this day, we were playing football in the compound. The compound was spacious. So like, usually we do play football when he's not around. So we started playing football. We were playing, we're having so much fun. We were scoring. My team, I am an other brother to the team. Then my younger brother and his friend, they belong to the other.",33.34,7.405,0.2221
+test_2134,small.en,cpu,int8,"No, no, no, no, no, no, no.",2.29,2.137,0.933
+test_6680,small.en,cpu,int8,"Well, I wouldn't say I like it that much, but I've been really into rap these days, rap music, and I don't know, I like.",9.25,2.555,0.2762
+test_1989,small.en,cpu,int8,"Yeah, I think, apart from football, I also played basketball, yeah, because of my height.",6.31,2.245,0.3558
+test_6653,small.en,cpu,int8,Did you get that?,1.03,1.995,1.9371
+test_6794,small.en,cpu,int8,"Sorry, bye.",0.58,1.964,3.3858
+test_6711,small.en,cpu,int8,"including it all has to do with the orientation. Not to additional the use of the orientation as far back as the education system, primary school education system, secondary school education system. Yeah, from the.",11.32,2.772,0.2449
+test_6773,small.en,cpu,int8,"Yeah, just like the story you gave about a boy, a new and new Western.",5.71,2.215,0.3879
+test_6792,small.en,cpu,int8,All right. Thank you so much for your time.,2.11,2.092,0.9912
+test_6646,small.en,cpu,int8,So my ID is fc42 b2,6.61,2.07,0.3132
+test_6339,small.en,cpu,int8,Why? Because you prefer audio.,1.75,2.036,1.1632
+test_2459,small.en,cpu,int8,That's that's nice,1.81,1.978,1.0927
+test_1637,small.en,cpu,int8,"Because you're competing with a lot of people, yes.",2.86,2.086,0.7293
+test_6411,small.en,cpu,int8,"Very well, wow. Okay, I think I'll be getting your recipe too. Wow. It's fine, it's fine. Well, then you can't make, can't make me spy. Show ama, okay, you can make show ama, you can't make ama.",13.72,3.29,0.2398
+test_6465,small.en,cpu,int8,"So thank you for your time. Thank you for a very good time to me today. Thank you for speaking with me today. I'm really glad you've made my day. I really, really appreciate the real Jane.",16.51,2.767,0.1676
+test_6363,small.en,cpu,int8,"I was advised for playing football, even if I want to play, it shouldn't be the normal pitch football, like with many players, I should just play with few friends for few minutes and then go and rest.",15.28,2.833,0.1854
+test_6647,small.en,cpu,int8,"Okay, my ID is FC42P1.",4.21,2.056,0.4883
+test_6395,small.en,cpu,int8,"I think mine is, what is it called? Shoma. I've not had the opportunity to test it. But recipe, I got a few recipes from my friends who can make it very well. So I got recipes from them. I think I'll be making shoma soon.",20.5,3.217,0.1569
+test_1641,small.en,cpu,int8,"That's actually been the most challenging thing, but I've been talking to quite some people that have been putting me through on what to do, how I need to up my game and stuff, you know. I think I'm making progress, I think I'm making progress. So as soon as everything clicks, I hope something positive clicks for me and I'm surely gonna let you know, I will.",20.08,4.066,0.2025
+test_2609,small.en,cpu,int8,So it's so nice having this conversation with you.,2.59,2.079,0.8028
+test_2592,small.en,cpu,int8,It was expensive reasons.,1.75,1.998,1.1415
+test_6671,small.en,cpu,int8,"It is still out of night here, I still don't speak.",3.64,2.134,0.5863
+test_6313,small.en,cpu,int8,"Yeah, me too. I saw it last day, so I think the movie was What's The Hype? Like, they were just hyping the movie, and when I saw the movie, I was like, wow, this movie is really What's The Hype? I love the movie, how the lead character played her role. I just love the movie, and how they were kept in suspense. We didn't know the next step they were going to take. The movie was just smart. The movie was cool.",26.32,4.599,0.1747
+test_2377,small.en,cpu,int8,"So, you know, let me talk about you cause I've watched lately, recently, Moana, I've watched Moana, I've watched Coco.",7.93,2.479,0.3126
+test_6701,small.en,cpu,int8,"Yeah, so also the location, a lot of things that gets hiked, a lot of prizes will get hiked, so make sure that the suppliers are getting the best riders for their services. So every landlord wants because of a lot of welcoming for a particular space outlet, he wants to make the best out of it. So he will increase the price and so only those that are able to afford it can get it.",31.87,6.18,0.1939
+test_2070,small.en,cpu,int8,Oh my go-,0.58,1.958,3.3764
+test_6359,small.en,cpu,int8,It's fine. It's fine. So is there any sports you play? Do you have any sports?,6.49,2.271,0.3499
+test_6684,small.en,cpu,int8,"Yeah, it's kind of a thing and it's been growing on me though. I like it.",4.6,2.268,0.4931
+test_6403,small.en,cpu,int8,"I think I can make meat pie, I can make chiching, and I can make peanuts. So my next target is shawarma. I'll make shawarma soon. So I'm just getting so ready for it.",13.42,2.877,0.2144
+test_6480,small.en,cpu,int8,"Yeah, it's sunny after a rainy day yesterday.",3.37,2.086,0.6191
+validation_7146,small.en,cpu,int8,"I really loved reading stories with my sister, especially before going to bed. And we were reading the stories from the cartoons we used to watch.",12.73,2.466,0.1937
+validation_1028,small.en,cpu,int8,"Yeah, the only other thing was fairy bread. Have you heard of it?",3.43,2.154,0.6281
+test_6414,small.en,cpu,int8,"I just need a little bit of time, if I just want to try it, I'll just go and try it, but I don't fancy it, that's why I didn't go there, spending my money on it.",10.9,2.75,0.2523
+validation_5489,small.en,cpu,int8,"No, I cannot. Unfortunately, I didn't know as a child.",7.6,2.158,0.284
+validation_4007,small.en,cpu,int8,"Honestly, like back in the day when you actually had to wait for the video to buffer. Now I don't remember the last time I saw the buffering site on any streaming site.",10.69,2.61,0.2442
+validation_100,small.en,cpu,int8,"being a primary school teacher, and all these like, six year old boys who will grow up to be D1 athletes, they're just like hovering way above you and you're like",7.66,2.57,0.3355
+test_6398,small.en,cpu,int8,"Ah, yes, on the second attempt, sorry.",3.07,2.086,0.6796
+validation_7154,small.en,cpu,int8,"Yes, yes, as I remember. And did you used to play any sports on the beach? For example, we love playing volleyball or just some regular sport games in the water, because I really love sports. I used to play basketball when I was younger. And till today, I really love sports in general. And that's why I always, and we used to play different kinds of sports on the beach.",34.6,5.739,0.1659
+validation_7182,small.en,cpu,int8,"where I love casual style, especially sports style. I don't like wearing heels. Maybe I haven't worn them for years. I really love wearing sneakers, jeans, and casual dresses, everything, and oversized clothes. I don't like uncomfortable clothes. And I really love shopping, especially when there are sales, because I don't want to spend much money for something that I can buy later on sale.",35.59,5.628,0.1581
+validation_4061,small.en,cpu,int8,So I think we've pretty much done that.,2.83,2.092,0.7392
+validation_5393,small.en,cpu,int8,"Superman. I grew up watching a lot of Superman, yeah.",4.87,2.107,0.4327
+test_6629,small.en,cpu,int8,Very nice.,0.76,1.968,2.5894
+validation_5118,small.en,cpu,int8,"Like a month now, I just finished season one and one season two.",4.75,2.201,0.4633
+validation_1072,small.en,cpu,int8,"Probably wouldn't need that now. I'm not going to lie to you. Thinly spread, it wasn't too unhealthy, but I wouldn't, I think I'd give that one a pass. But apart from that, I don't think I've really changed. I eat all vegetables now, that's the only thing. My parents blessed them that they were very good cooks in many ways, but they were not good at just preparing plain vegetables.",17.65,3.901,0.221
+validation_1132,small.en,cpu,int8,"So the environmental worry for me will be to stick to basically which sort of animal I go for. Whereas you just tend not to eat meat at all. But I think you said, did you eat meat sometimes if it's been like, I don't think you said hunted or something.",16.72,3.332,0.1993
+validation_5151,small.en,cpu,int8,What team do you support?,1.03,2.072,2.0116
+validation_5301,small.en,cpu,int8,The word is zebra.,1.27,1.992,1.5684
+validation_7160,small.en,cpu,int8,"Well, I would really like to go to some warm place where there is a beach in front. I really love summer and I would go wherever it takes. I want to go, for example, maybe in Mexico and because there are really interesting places and beaches to see there. And if I choose to go",28.27,3.088,0.1092
+validation_5874,small.en,cpu,int8,"I don't know which one, how you pronounce it, but one of them.",2.8,2.189,0.7817
+test_6496,small.en,cpu,int8,"Oh, maybe some mushrooms and some olives in it.",2.68,2.111,0.7876
+validation_5676,small.en,cpu,int8,"Antagonist. Yeah, definitely. Probably.",2.38,2.118,0.8901
+validation_5960,small.en,cpu,int8,"No, no, no, no, no, no.",3.46,2.1,0.6069
+validation_1138,small.en,cpu,int8,"Oh my goodness. Wild meat, do you mean the type of meat or the way it was taken?",3.28,2.296,0.6999
+validation_5724,small.en,cpu,int8,"I think Stardew Valley might be a roleplay, yeah.",1.78,2.122,1.1924
+validation_4143,small.en,cpu,int8,"There is a conference I'm going to, they've got like another version of it. So it's like ACM, but they've got another version and it's for linguistics only. And that looks quite fun.",15.55,2.828,0.1819
+validation_4179,small.en,cpu,int8,I used to watch quite a lot of Tom and Jerry.,1.93,2.083,1.0793
+validation_2242,small.en,cpu,int8,"Because I've been to Alton's house, but I don't remember driving that fucking far. I guess I wasn't, I wasn't the one driving. I guess we just, especially where it is, I'm like that that would actually be really awkward to get to from where I come from because where I came from had no fucking roads that worked. I do not remember going that far.",23.83,3.753,0.1575
+test_6542,small.en,cpu,int8,You just have to chop all the onions and the tomatoes and that's what takes the time but then you just keep throwing things in and it cooks itself.,11.86,2.506,0.2113
+test_6300,small.en,cpu,int8,Wow. That's your opinion.,2.56,2.021,0.7894
+validation_2144,small.en,cpu,int8,"I think I don't, I really hate doing things last minute. Like I just get so anxious and stressed out. I'm definitely like someone who likes to have like plans and know what to expect and stuff. So like I've always been someone who like tries to kind of like start things early and pace things. Yeah, I just don't like that feeling of like being under pressure and not having enough time.",29.35,3.973,0.1354
+validation_2154,small.en,cpu,int8,"Like, I'm like very like, uh, capitalism, uh, this, uh, that, and then I'm just like, but Disney and like Christmas.",7.0,2.504,0.3577
+validation_3985,small.en,cpu,int8,"Yeah, there's too many places to go, the world is a big place.",3.88,2.22,0.5723
+validation_5525,small.en,cpu,int8,"This is happy, I think.",1.18,2.012,1.7052
+validation_2222,small.en,cpu,int8,"Yeah, I don't think that's mainstream enough to have an influence.",5.44,2.128,0.3912
+validation_5218,small.en,cpu,int8,"I think he told me, but I forgot what was the name of your secondary school.",3.97,2.188,0.5511
+validation_4087,small.en,cpu,int8,"We had this conversation before, that is still, that is a thing.",3.13,2.144,0.6851
+validation_4167,small.en,cpu,int8,Mmm.,0.43,1.936,4.5024
+validation_4125,small.en,cpu,int8,"Yeah, like my partner, he went to, I don't know how my language would say, speaks.",5.5,2.3,0.4182
+validation_2136,small.en,cpu,int8,"I feel like I have so little control over whether my brain is in focus mode or not in focus mode. So I have a list of things to do and I'll either do them like, not like at the same time, but I'll sometimes like jump between things much more frequently and then sometimes I do get like quite in the zone. But I don't try and like, I guess like try and control when that happens because my brain is just its own entity.",27.31,4.27,0.1564
+validation_7140,small.en,cpu,int8,"Yes, and I always wanted to bring some books with me, so we were swimming almost all day and on the breaks we were reading books from school. The teacher used to give us, I don't really remember if I had any favorite book, but I really enjoyed them. And what about you? Did you bring any books, any favorite books on the beach, or you just really wanted to get tent and swim all day long?",37.27,5.938,0.1593
+validation_114,small.en,cpu,int8,I just lose you,0.97,1.972,2.0333
+validation_62,small.en,cpu,int8,People when they first came out people mocked them so hard and now that I was one of,4.21,2.234,0.5307
+validation_5426,small.en,cpu,int8,Did you enjoy where you grew up?,5.17,2.041,0.3949
+test_6538,small.en,cpu,int8,Probably some chicken curry.,1.6,2.008,1.2548
+validation_4037,small.en,cpu,int8,That makes sense.,1.15,1.956,1.701
+validation_2086,small.en,cpu,int8,"Yeah, I think I know. Amen.",0.97,2.052,2.1158
+validation_78,small.en,cpu,int8,Their vision was just ruined and Google probably hushed them.,4.81,2.11,0.4386
+validation_5125,small.en,cpu,int8,Have we heard of Teen Wolf?,5.56,2.008,0.3611
+validation_7162,small.en,cpu,int8,Are you full of what?,0.88,1.978,2.2472
+validation_1018,small.en,cpu,int8,"Very traumatic. Despite this, one of my favourite foods was still spaghetti with tomato sauce and cheese.",5.32,2.23,0.4192
+validation_1024,small.en,cpu,int8,like on its own and stuff on bread and things that was very very nice and I liked um I like calling the cask for the cake as well because it had very,10.78,2.755,0.2556
+test_6314,small.en,cpu,int8,I'm so glad you you are tested to the fun of the movie was what's the hype,5.44,2.374,0.4364
+validation_4113,small.en,cpu,int8,I don't know what that is.,1.21,2.025,1.6738
+validation_156,small.en,cpu,int8,"That's a weird movie, that's a movie I haven't watched since I was like a little kid.",6.28,2.39,0.3806
+validation_5830,small.en,cpu,int8,spoil it,1.03,1.976,1.9186
+test_6388,small.en,cpu,int8,My worst subject was English language.,3.79,2.007,0.5297
+validation_5430,small.en,cpu,int8,What awards or trophies have you won?,2.38,2.059,0.8652
+validation_4043,small.en,cpu,int8,"I mean, I guess maybe it depends on the degree as well.",2.65,2.134,0.8054
+validation_6076,small.en,cpu,int8,"more deeper understanding of life. And that I think that ranges from people. I think when I was reading this book recently is talking about how if you, you know, people have like past regression, like, you know, people can learn about their past lives, you know, and when they when they learn about their past lives and things like that, they usually don't like it because it reminds them that, you know, they've been through a lot of things over and over again, which I think, you know, makes me feel as if like we've been, we've done a lot of things in life, especially in this existence, on this plane, we've done a lot of things, a lot, a lot of things. And I think it feels almost, it feels more like we'll reincarnate again and again and again, maybe not again and again and again, but maybe we're in kind of a different form. But there's definitely a stream of consciousness moving to some other plane, I think.",51.43,11.009,0.2141
