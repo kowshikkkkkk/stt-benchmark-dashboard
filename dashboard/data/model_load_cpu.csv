@@ -1,4 +1,4 @@
 model,device,compute_type,load_s
-tiny.en,cpu,int8,27.29
-base.en,cpu,int8,34.25
-small.en,cpu,int8,108.5
+tiny.en,cpu,int8,1.1
+base.en,cpu,int8,1.73
+small.en,cpu,int8,1.6

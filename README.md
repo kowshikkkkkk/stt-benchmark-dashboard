@@ -52,15 +52,20 @@ python analysis/tag_failures.py
 - agent/ PostHog instrumentation (coming)
 
 ## Latency breakdown
-Fit per model: processing time = fixed cost per call + cost per second of audio (CPU, int8, 4 threads).
-- tiny.en: 0.27 s fixed + 0.043 s per audio second (r2 0.89)
-- small.en: 1.10 s fixed + 0.209 s per audio second (r2 0.92)
-- base.en fit is noisy (r2 0.57), likely CPU contention during that run, so not reported.
+CPU, int8, 4 threads, one run per clip.
 
-Real-time factor by clip length (tiny / base / small):
-- under 3 s: 0.32 / 0.89 / 1.51 (37% of clips)
-- 3-6 s: 0.11 / 0.23 / 0.50
-- 6-10 s: 0.07 / 0.12 / 0.31
-- 20 s and longer: 0.04 / 0.08 / 0.18
+Fit per model: processing time = fixed cost per call + cost per second of audio.
+- tiny.en: 0.27 s + 0.043 s per audio second (r2 0.89)
+- base.en: 0.50 s + 0.075 s per audio second (r2 0.79, excluding stalls; 0.76 s and r2 0.57 with them)
+- small.en: 0.95 s + 0.211 s per audio second (r2 0.96, excluding stalls; 1.10 s with them)
 
-Takeaway: model size sets the slope, and per-call overhead dominates short utterances. On this laptop CPU, small.en is slower than real time on clips under 3 seconds, which is the typical size of a voice-agent turn. The likely cause is Whisper's fixed 30-second input window (not tested here).
+Short clips (under 3 s, 110 per model): median processing time is 0.38 s for tiny, 0.68 s for base and 2.03 s for small. Without stalls, small.en still runs at RTF 1.27 on these clips (slower than real time), against 0.32 for tiny.
+
+Stalls: 15 of 330 short-clip runs (base 10, small 5, tiny 0) took over 4 s, up to 14 s, for clips under 3 s long. In a re-test of 5 slow small.en clips, default decoding took 8-11 s and temperature=0 took about 2 s, which points at decoder retries. This is a small test, default timings varied between runs, and the effect of temperature=0 on WER was not checked.
+
+Takeaway: model size sets the per-second cost, and per-call overhead dominates short utterances, which is the typical size of a voice-agent turn. Why the fixed cost exists (for example Whisper's 30-second input window) was not tested.
+
+Model load time with cached models: about 1.1 s (tiny), 1.7 s (base), 1.6 s (small). First-run loads were much slower, likely model downloads, and are not reported.
+
+## Data quality notes
+- 15 clips per model (5%) have an implausible speech rate (over 6 words per second), likely bad segment boundaries in EdAcc. Dropping them changes WER by under 1 point and does not change the model ordering (small.en 15.4% to 14.8%, tiny.en 23.6% to 23.1%).
