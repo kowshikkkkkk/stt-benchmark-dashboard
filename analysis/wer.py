@@ -27,6 +27,7 @@ df[["sub", "dele", "ins", "ref_words"]] = pd.DataFrame(c, index=df.index)
 df["errors"] = df["sub"] + df["dele"] + df["ins"]
 df["wer_clip"] = df.errors / df.ref_words
 df.to_csv("analysis/clip_results.csv", index=False)
+df = df[df.audio_s <= 60].copy()  # accuracy scored on clips up to 60 s
 
 rows, diffs = [], []
 totE = np.zeros((B, len(MODELS)))

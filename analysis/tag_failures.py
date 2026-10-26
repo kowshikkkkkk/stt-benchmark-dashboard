@@ -19,7 +19,7 @@ def tag(r):
         return "correct"
     if has_new_repeat(r.ref_n, r.hyp_n):
         return "hallucinated_repeat"
-    if set(re.findall(r"\d+", r.ref_n)) != set(re.findall(r"\d+", r.hyp_n)):
+    if (set(re.findall(r"\d+", r.ref_n)) ^ set(re.findall(r"\d+", r.hyp_n))) - {"0"}:
         return "number"
     if r.ref_words <= 4:
         return "short_utterance"
