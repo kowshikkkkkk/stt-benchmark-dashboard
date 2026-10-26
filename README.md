@@ -2,7 +2,7 @@
 
 Which open speech-to-text model works best for which accents, and what slows a voice pipeline down.
 
-Status: benchmark and failure analysis done. Power BI dashboard and PostHog instrumentation in progress.
+Status: benchmark, failure analysis and Power BI dashboard done. PostHog instrumentation in progress.
 
 ## Setup
 - Data: EdAcc (Edinburgh International Accents of English Corpus), validation + test splits, accent labels assigned by linguists. License: CC-BY-SA per the Edinburgh DataShare record.
@@ -50,7 +50,7 @@ python analysis/tag_failures.py
 - data/ manifest and dataset prep
 - benchmark/ transcription runner and raw outputs
 - analysis/ WER, RTF, bootstrap, failure tagging
-- dashboard/ Power BI (coming)
+- dashboard/ Power BI file, dashboard data and screenshots
 - agent/ PostHog instrumentation (coming)
 
 ## Latency breakdown
