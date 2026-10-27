@@ -1,0 +1,151 @@
+event,ts,run,session_id,stt_model,accent,audio_s,latency_ms,chars,total_latency_ms
+conversation_started,1793078471.647,run4,test-6bfec87f,small.en,Mainstream US English,8.32,,,
+stt_done,1793078474.215,run4,test-6bfec87f,small.en,Mainstream US English,8.32,2548.0,70.0,
+llm_done,1793078474.919,run4,test-6bfec87f,small.en,Mainstream US English,8.32,654.0,118.0,
+tts_done,1793078476.433,run4,test-6bfec87f,small.en,Mainstream US English,8.32,1458.0,,
+conversation_completed,1793078476.487,run4,test-6bfec87f,small.en,Mainstream US English,8.32,,,4788.0
+conversation_started,1793078478.535,run4,test-11944bf5,small.en,Jamaican English,3.19,,,
+stt_done,1793078481.276,run4,test-11944bf5,small.en,Jamaican English,3.19,2716.0,47.0,
+llm_done,1793078481.773,run4,test-11944bf5,small.en,Jamaican English,3.19,452.0,38.0,
+tts_done,1793078483.043,run4,test-11944bf5,small.en,Jamaican English,3.19,1222.0,,
+conversation_completed,1793078483.088,run4,test-11944bf5,small.en,Jamaican English,3.19,,,4511.0
+conversation_started,1793078485.144,run4,test-37dc9b88,tiny.en,Jamaican English,3.22,,,
+stt_done,1793078485.755,run4,test-37dc9b88,tiny.en,Jamaican English,3.22,593.0,52.0,
+llm_done,1793078486.37,run4,test-37dc9b88,tiny.en,Jamaican English,3.22,561.0,70.0,
+tts_done,1793078488.234,run4,test-37dc9b88,tiny.en,Jamaican English,3.22,1816.0,,
+conversation_completed,1793078488.284,run4,test-37dc9b88,tiny.en,Jamaican English,3.22,,,3092.0
+conversation_started,1793078490.333,run4,test-0e027dec,small.en,Southern British English,1.03,,,
+stt_done,1793078493.126,run4,test-0e027dec,small.en,Southern British English,1.03,2766.0,25.0,
+llm_done,1793078493.632,run4,test-0e027dec,small.en,Southern British English,1.03,469.0,54.0,
+tts_done,1793078495.098,run4,test-0e027dec,small.en,Southern British English,1.03,1410.0,,
+conversation_completed,1793078495.159,run4,test-0e027dec,small.en,Southern British English,1.03,,,4765.0
+conversation_started,1793078497.218,run4,test-8296bae4,small.en,Indian English,4.75,,,
+stt_done,1793078500.962,run4,test-8296bae4,small.en,Indian English,4.75,3723.0,67.0,
+llm_done,1793078501.573,run4,test-8296bae4,small.en,Indian English,4.75,547.0,79.0,
+tts_done,1793078503.038,run4,test-8296bae4,small.en,Indian English,4.75,1413.0,,
+conversation_completed,1793078503.087,run4,test-8296bae4,small.en,Indian English,4.75,,,5827.0
+conversation_started,1793078505.136,run4,test-9b1350a1,tiny.en,Jamaican English,1.39,,,
+stt_done,1793078505.779,run4,test-9b1350a1,tiny.en,Jamaican English,1.39,619.0,17.0,
+llm_done,1793078506.25,run4,test-9b1350a1,tiny.en,Jamaican English,1.39,421.0,54.0,
+tts_done,1793078507.55,run4,test-9b1350a1,tiny.en,Jamaican English,1.39,1257.0,,
+conversation_completed,1793078507.6,run4,test-9b1350a1,tiny.en,Jamaican English,1.39,,,2410.0
+conversation_started,1793078509.648,run4,test-514d77fb,tiny.en,Mainstream US English,10.78,,,
+stt_done,1793078510.413,run4,test-514d77fb,tiny.en,Mainstream US English,10.78,752.0,142.0,
+llm_done,1793078511.062,run4,test-514d77fb,tiny.en,Mainstream US English,10.78,592.0,113.0,
+tts_done,1793078512.346,run4,test-514d77fb,tiny.en,Mainstream US English,10.78,1246.0,,
+conversation_completed,1793078512.396,run4,test-514d77fb,tiny.en,Mainstream US English,10.78,,,2706.0
+conversation_started,1793078514.444,run4,test-481efe86,tiny.en,Indian English,8.86,,,
+stt_done,1793078515.209,run4,test-481efe86,tiny.en,Indian English,8.86,754.0,105.0,
+llm_done,1793078515.876,run4,test-481efe86,tiny.en,Indian English,8.86,604.0,49.0,
+tts_done,1793078517.258,run4,test-481efe86,tiny.en,Indian English,8.86,1339.0,,
+conversation_completed,1793078517.307,run4,test-481efe86,tiny.en,Indian English,8.86,,,2812.0
+conversation_started,1793078519.355,run4,test-dca215c1,tiny.en,Southern British English,5.32,,,
+stt_done,1793078519.988,run4,test-dca215c1,tiny.en,Southern British English,5.32,618.0,101.0,
+llm_done,1793078520.585,run4,test-dca215c1,tiny.en,Southern British English,5.32,548.0,131.0,
+tts_done,1793078522.216,run4,test-dca215c1,tiny.en,Southern British English,5.32,1583.0,,
+conversation_completed,1793078522.254,run4,test-dca215c1,tiny.en,Southern British English,5.32,,,2862.0
+conversation_started,1793078524.302,run4,test-5ffdc8b6,tiny.en,Jamaican English,1.21,,,
+stt_done,1793078524.925,run4,test-5ffdc8b6,tiny.en,Jamaican English,1.21,595.0,35.0,
+llm_done,1793078525.414,run4,test-5ffdc8b6,tiny.en,Jamaican English,1.21,442.0,58.0,
+tts_done,1793078526.725,run4,test-5ffdc8b6,tiny.en,Jamaican English,1.21,1266.0,,
+conversation_completed,1793078526.767,run4,test-5ffdc8b6,tiny.en,Jamaican English,1.21,,,2417.0
+conversation_started,1793078528.815,run4,test-902909ea,tiny.en,Indian English,5.23,,,
+stt_done,1793078532.943,run4,test-902909ea,tiny.en,Indian English,5.23,4101.0,96.0,
+llm_done,1793078533.894,run4,test-902909ea,tiny.en,Indian English,5.23,909.0,80.0,
+tts_done,1793078535.368,run4,test-902909ea,tiny.en,Indian English,5.23,1426.0,,
+conversation_completed,1793078535.409,run4,test-902909ea,tiny.en,Indian English,5.23,,,6549.0
+conversation_started,1793078537.457,run4,test-7466cc34,tiny.en,Nigerian English,0.34,,,
+stt_done,1793078538.055,run4,test-7466cc34,tiny.en,Nigerian English,0.34,584.0,6.0,
+llm_done,1793078538.573,run4,test-7466cc34,tiny.en,Nigerian English,0.34,465.0,46.0,
+tts_done,1793078539.904,run4,test-7466cc34,tiny.en,Nigerian English,0.34,1280.0,,
+conversation_completed,1793078539.947,run4,test-7466cc34,tiny.en,Nigerian English,0.34,,,2444.0
+conversation_started,1793078541.987,run4,test-f84c0331,small.en,Southern British English,2.65,,,
+stt_done,1793078544.812,run4,test-f84c0331,small.en,Southern British English,2.65,2800.0,55.0,
+llm_done,1793078545.365,run4,test-f84c0331,small.en,Southern British English,2.65,505.0,101.0,
+tts_done,1793078546.616,run4,test-f84c0331,small.en,Southern British English,2.65,1205.0,,
+conversation_completed,1793078546.66,run4,test-f84c0331,small.en,Southern British English,2.65,,,4623.0
+conversation_started,1793078548.708,run4,test-e8a0266e,tiny.en,Jamaican English,1.42,,,
+stt_done,1793078549.362,run4,test-e8a0266e,tiny.en,Jamaican English,1.42,635.0,17.0,
+llm_done,1793078549.763,run4,test-e8a0266e,tiny.en,Jamaican English,1.42,359.0,56.0,
+tts_done,1793078550.827,run4,test-e8a0266e,tiny.en,Jamaican English,1.42,1011.0,,
+conversation_completed,1793078550.863,run4,test-e8a0266e,tiny.en,Jamaican English,1.42,,,2118.0
+conversation_started,1793078552.921,run4,test-e9428d5e,tiny.en,Indian English,2.11,,,
+stt_done,1793078553.525,run4,test-e9428d5e,tiny.en,Indian English,2.11,587.0,19.0,
+llm_done,1793078554.071,run4,test-e9428d5e,tiny.en,Indian English,2.11,495.0,88.0,
+tts_done,1793078555.808,run4,test-e9428d5e,tiny.en,Indian English,2.11,1690.0,,
+conversation_completed,1793078555.85,run4,test-e9428d5e,tiny.en,Indian English,2.11,,,2885.0
+conversation_started,1793078557.901,run4,test-68dd993e,tiny.en,Jamaican English,1.72,,,
+stt_done,1793078558.488,run4,test-68dd993e,tiny.en,Jamaican English,1.72,568.0,20.0,
+llm_done,1793078558.882,run4,test-68dd993e,tiny.en,Jamaican English,1.72,346.0,115.0,
+tts_done,1793078560.087,run4,test-68dd993e,tiny.en,Jamaican English,1.72,1159.0,,
+conversation_completed,1793078560.13,run4,test-68dd993e,tiny.en,Jamaican English,1.72,,,2190.0
+conversation_started,1793078562.181,run4,test-4ea7ae34,small.en,Nigerian English,0.58,,,
+stt_done,1793078564.782,run4,test-4ea7ae34,small.en,Nigerian English,0.58,2584.0,9.0,
+llm_done,1793078565.433,run4,test-4ea7ae34,small.en,Nigerian English,0.58,605.0,55.0,
+tts_done,1793078566.599,run4,test-4ea7ae34,small.en,Nigerian English,0.58,1124.0,,
+conversation_completed,1793078566.647,run4,test-4ea7ae34,small.en,Nigerian English,0.58,,,4423.0
+conversation_started,1793078568.695,run4,test-54686083,small.en,Mainstream US English,8.44,,,
+stt_done,1793078571.626,run4,test-54686083,small.en,Mainstream US English,8.44,2913.0,82.0,
+llm_done,1793078572.294,run4,test-54686083,small.en,Mainstream US English,8.44,625.0,127.0,
+tts_done,1793078573.526,run4,test-54686083,small.en,Mainstream US English,8.44,1175.0,,
+conversation_completed,1793078573.568,run4,test-54686083,small.en,Mainstream US English,8.44,,,4831.0
+conversation_started,1793078575.608,run4,test-b44c573d,small.en,Jamaican English,6.19,,,
+stt_done,1793078578.587,run4,test-b44c573d,small.en,Jamaican English,6.19,2958.0,87.0,
+llm_done,1793078579.254,run4,test-b44c573d,small.en,Jamaican English,6.19,623.0,58.0,
+tts_done,1793078580.42,run4,test-b44c573d,small.en,Jamaican English,6.19,1111.0,,
+conversation_completed,1793078580.453,run4,test-b44c573d,small.en,Jamaican English,6.19,,,4802.0
+conversation_started,1793078582.512,run4,test-1e31ea9d,small.en,Jamaican English,2.62,,,
+stt_done,1793078585.181,run4,test-1e31ea9d,small.en,Jamaican English,2.62,2656.0,14.0,
+llm_done,1793078585.813,run4,test-1e31ea9d,small.en,Jamaican English,2.62,582.0,53.0,
+tts_done,1793078586.978,run4,test-1e31ea9d,small.en,Jamaican English,2.62,1118.0,,
+conversation_completed,1793078587.014,run4,test-1e31ea9d,small.en,Jamaican English,2.62,,,4466.0
+conversation_started,1793078589.062,run4,test-d149ab9a,tiny.en,Mainstream US English,2.77,,,
+stt_done,1793078589.782,run4,test-d149ab9a,tiny.en,Mainstream US English,2.77,695.0,55.0,
+llm_done,1793078590.344,run4,test-d149ab9a,tiny.en,Mainstream US English,2.77,519.0,52.0,
+tts_done,1793078591.592,run4,test-d149ab9a,tiny.en,Mainstream US English,2.77,1197.0,,
+conversation_completed,1793078591.627,run4,test-d149ab9a,tiny.en,Mainstream US English,2.77,,,2523.0
+conversation_started,1793078593.675,run4,test-445d110f,tiny.en,Mainstream US English,4.66,,,
+stt_done,1793078594.323,run4,test-445d110f,tiny.en,Mainstream US English,4.66,632.0,70.0,
+llm_done,1793078594.923,run4,test-445d110f,tiny.en,Mainstream US English,4.66,549.0,99.0,
+tts_done,1793078596.572,run4,test-445d110f,tiny.en,Mainstream US English,4.66,1595.0,,
+conversation_completed,1793078596.616,run4,test-445d110f,tiny.en,Mainstream US English,4.66,,,2887.0
+conversation_started,1793078598.665,run4,test-2d057321,small.en,Mainstream US English,3.1,,,
+stt_done,1793078601.545,run4,test-2d057321,small.en,Mainstream US English,3.1,2861.0,29.0,
+llm_done,1793078602.299,run4,test-2d057321,small.en,Mainstream US English,3.1,708.0,50.0,
+tts_done,1793078603.659,run4,test-2d057321,small.en,Mainstream US English,3.1,1313.0,,
+conversation_completed,1793078603.7,run4,test-2d057321,small.en,Mainstream US English,3.1,,,4995.0
+conversation_started,1793078605.748,run4,test-069d9e87,small.en,Indian English,3.25,,,
+stt_done,1793078608.444,run4,test-069d9e87,small.en,Indian English,3.25,2678.0,32.0,
+llm_done,1793078609.16,run4,test-069d9e87,small.en,Indian English,3.25,666.0,138.0,
+tts_done,1793078610.411,run4,test-069d9e87,small.en,Indian English,3.25,1204.0,,
+conversation_completed,1793078610.444,run4,test-069d9e87,small.en,Indian English,3.25,,,4659.0
+conversation_started,1793078612.503,run4,test-ca926b67,small.en,Mainstream US English,3.55,,,
+stt_done,1793078615.288,run4,test-ca926b67,small.en,Mainstream US English,3.55,2767.0,54.0,
+llm_done,1793078615.605,run4,test-ca926b67,small.en,Mainstream US English,3.55,280.0,77.0,
+tts_done,1793078616.671,run4,test-ca926b67,small.en,Mainstream US English,3.55,1016.0,,
+conversation_completed,1793078616.721,run4,test-ca926b67,small.en,Mainstream US English,3.55,,,4175.0
+conversation_started,1793078618.768,run4,test-9a06f919,tiny.en,Nigerian English,0.52,,,
+stt_done,1793078619.353,run4,test-9a06f919,tiny.en,Nigerian English,0.52,566.0,18.0,
+llm_done,1793078619.718,run4,test-9a06f919,tiny.en,Nigerian English,0.52,322.0,55.0,
+tts_done,1793078620.801,run4,test-9a06f919,tiny.en,Nigerian English,0.52,1033.0,,
+conversation_completed,1793078620.845,run4,test-9a06f919,tiny.en,Nigerian English,0.52,,,2033.0
+conversation_started,1793078622.883,run4,test-f5a9a94b,tiny.en,Mainstream US English,5.68,,,
+stt_done,1793078623.614,run4,test-f5a9a94b,tiny.en,Mainstream US English,5.68,705.0,34.0,
+llm_done,1793078624.115,run4,test-f5a9a94b,tiny.en,Mainstream US English,5.68,446.0,69.0,
+tts_done,1793078625.363,run4,test-f5a9a94b,tiny.en,Mainstream US English,5.68,1211.0,,
+conversation_completed,1793078625.414,run4,test-f5a9a94b,tiny.en,Mainstream US English,5.68,,,2478.0
+conversation_started,1793078627.462,run4,test-52b73d4e,small.en,Southern British English,0.97,,,
+stt_done,1793078630.331,run4,test-52b73d4e,small.en,Southern British English,0.97,2846.0,27.0,
+llm_done,1793078631.075,run4,test-52b73d4e,small.en,Southern British English,0.97,699.0,61.0,
+tts_done,1793078632.724,run4,test-52b73d4e,small.en,Southern British English,0.97,1601.0,,
+conversation_completed,1793078632.757,run4,test-52b73d4e,small.en,Southern British English,0.97,,,5259.0
+conversation_started,1793078634.816,run4,test-9267ec58,tiny.en,Nigerian English,1.0,,,
+stt_done,1793078635.442,run4,test-9267ec58,tiny.en,Nigerian English,1.0,607.0,21.0,
+llm_done,1793078636.088,run4,test-9267ec58,tiny.en,Nigerian English,1.0,605.0,106.0,
+tts_done,1793078637.353,run4,test-9267ec58,tiny.en,Nigerian English,1.0,1213.0,,
+conversation_completed,1793078637.388,run4,test-9267ec58,tiny.en,Nigerian English,1.0,,,2538.0
+conversation_started,1793078639.445,run4,test-2b2423c4,small.en,Nigerian English,2.86,,,
+stt_done,1793078642.224,run4,test-2b2423c4,small.en,Nigerian English,2.86,2760.0,51.0,
+llm_done,1793078642.78,run4,test-2b2423c4,small.en,Nigerian English,2.86,509.0,91.0,
+tts_done,1793078643.99,run4,test-2b2423c4,small.en,Nigerian English,2.86,1167.0,,
+conversation_completed,1793078644.031,run4,test-2b2423c4,small.en,Nigerian English,2.86,,,4548.0

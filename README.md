@@ -2,7 +2,7 @@
 
 Which open speech-to-text model works best for which accents, and what slows a voice pipeline down.
 
-Status: benchmark, failure analysis and Power BI dashboard done. PostHog instrumentation in progress.
+Status: benchmark, failure analysis, Power BI dashboard and PostHog pipeline instrumentation done.
 
 ## Setup
 - Data: EdAcc (Edinburgh International Accents of English Corpus), validation + test splits, accent labels assigned by linguists. License: CC-BY-SA per the Edinburgh DataShare record.
@@ -51,7 +51,7 @@ python analysis/tag_failures.py
 - benchmark/ transcription runner and raw outputs
 - analysis/ WER, RTF, bootstrap, failure tagging
 - dashboard/ Power BI file, dashboard data and screenshots
-- agent/ PostHog instrumentation (coming)
+- agent/ voice pipeline demo that sends events to PostHog
 
 ## Latency breakdown
 CPU, int8, 4 threads, one run per clip.
@@ -71,6 +71,18 @@ Model load time with cached models: about 1.1 s (tiny), 1.7 s (base), 1.6 s (sma
 
 ## Data quality notes
 - 15 clips per model have an implausible speech rate (over 6 words per second), likely bad segment boundaries in EdAcc. Dropping them changes WER by about a point or less and does not change the model ordering (tiny.en 27.2% to 26.6%, base.en 23.6% to 23.0%, small.en 17.3% to 16.6%).
+
+## Voice pipeline latency (PostHog)
+agent/demo.py runs 30 scripted sessions: a benchmark clip (12 s or less) is the user turn, then Whisper (tiny.en or small.en, assigned at random: 16 and 14 sessions), an LLM (Groq, openai/gpt-oss-20b, low reasoning effort), and text-to-speech (edge-tts, whole file synthesized and saved). Each stage sends a latency_ms event to PostHog, with conversation_started and conversation_completed around them. These are test sessions, not production traffic.
+
+Median stage latency:
+- tiny.en sessions (16): STT 0.62 s, LLM 0.51 s, TTS 1.26 s, about 2.4 s end to end (sum of the three stages)
+- small.en sessions (14): STT 2.77 s, LLM 0.59 s, TTS 1.20 s, about 4.6 s end to end (sum of the three stages)
+
+Takeaway: with tiny.en the largest stage is TTS; with small.en it is STT. Stages run one after another with no streaming, and TTS is the time to synthesize and save the whole file over the network, so these are not time-to-first-audio figures. 30 of 30 sessions completed according to the local log (dashboard/data/agent_events.csv). The slowest STT call took 4.1 s (tiny.en; cause not investigated). The small.en group has 14 sessions, so treat the gap between the two models as indicative.
+
+Events carry a run property, and run4 is the run reported here. Earlier failed runs (an invalid key, a retired model and a duplicated run) are also in the PostHog project. No PostHog insights or dashboards were built; the figures above are computed from the local log.
+
 
 ## Dashboard
 Power BI file: dashboard/stt_benchmark.pbix (open in Power BI Desktop).
